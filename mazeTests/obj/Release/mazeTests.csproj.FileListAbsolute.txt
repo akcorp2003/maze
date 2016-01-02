@@ -1,0 +1,9 @@
+C:\Users\Aland\Documents\Visual Studio 2015\Projects\C-Sharp\maze\mazeTests\bin\Release\mazeTests.dll
+C:\Users\Aland\Documents\Visual Studio 2015\Projects\C-Sharp\maze\mazeTests\bin\Release\mazeTests.pdb
+C:\Users\Aland\Documents\Visual Studio 2015\Projects\C-Sharp\maze\mazeTests\bin\Release\maze.exe
+C:\Users\Aland\Documents\Visual Studio 2015\Projects\C-Sharp\maze\mazeTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Aland\Documents\Visual Studio 2015\Projects\C-Sharp\maze\mazeTests\bin\Release\maze.pdb
+C:\Users\Aland\Documents\Visual Studio 2015\Projects\C-Sharp\maze\mazeTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Aland\Documents\Visual Studio 2015\Projects\C-Sharp\maze\mazeTests\obj\Release\mazeTests.csprojResolveAssemblyReference.cache
+C:\Users\Aland\Documents\Visual Studio 2015\Projects\C-Sharp\maze\mazeTests\obj\Release\mazeTests.dll
+C:\Users\Aland\Documents\Visual Studio 2015\Projects\C-Sharp\maze\mazeTests\obj\Release\mazeTests.pdb
